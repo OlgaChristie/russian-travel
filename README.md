@@ -8,6 +8,6 @@
 
 Сайт написан по БЫМ при помощи HTML5 и CSS3. Сайт адаптивный и отображается на самых популярных размерах экранов: 320px, 768px, 1024px, 1280px. Для создания проекта былии использованны директивы @keyframes, @media, @font-face, flex-box и grid верстка. Подключен бесплатный шрифт 'Inter'.
 
-* [ссылка на проект в Github] (https://github.com/OlgaChristie/russian-travel/index.html)
+* [ссылка на проект в Github] (https://github.com/OlgaChristie/russian-travel.git)
 
 * Автор - Ольга Кристи в рамках образовательного проекта Яндекс.Практикум
