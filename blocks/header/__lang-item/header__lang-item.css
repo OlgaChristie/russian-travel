@@ -1,0 +1,26 @@
+.header__lang-item {
+    list-style: none;
+    color: white;
+    margin: 0;
+    padding: 0;
+    line-height: 28px;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: normal;
+    width: 30px;
+    height: 28px;
+    padding-right: 18px;
+}
+
+.header__lang-item:last-child {
+    padding-right: 0;
+}
+
+@media screen and (max-width: 767px) {
+    .header__lang-item {
+        width: 22px;
+        height: 20px;
+        line-height: 20px;
+        font-size: 18px;
+    }
+}

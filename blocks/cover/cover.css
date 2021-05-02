@@ -1,0 +1,16 @@
+.cover {
+    max-width: calc(100% - (48px * 2));
+    height: 100%;
+    margin: 0 auto;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+@media screen and (max-width: 1279px) {
+    .cover {
+        max-width: 100%;
+    }
+}
+
