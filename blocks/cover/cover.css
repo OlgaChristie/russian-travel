@@ -1,6 +1,5 @@
 .cover {
     max-width: calc(100% - (48px * 2));
-    height: 100%;
     margin: 0 auto;
     padding: 0;
     display: flex;

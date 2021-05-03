@@ -5,7 +5,12 @@
 }
 
 @media screen and (max-width: 767px) {
-    .footer__list-item + .footer__list-item {
+    .footer__list-item {
         padding-top: 32px;
     }
+
+    .footer__list-item:first-of-type {
+        padding-top: 0px;
+    }
+
 }    
